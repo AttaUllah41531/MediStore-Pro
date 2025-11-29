@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any queries or support, please contact:
 Amjad ullah
-Email: amjadfast87@gmail.com
+Email: attaullah41531@gmail.com
 
