@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AmjadKhan88/MediStore-Pro.git
+git clone https://github.com/AttaUllah41531/MediStore-Pro
 Navigate to the project directory:
 
 bash
